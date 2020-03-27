@@ -1,4 +1,5 @@
 from pause_cafe import Pause_cafe
+import views
 
 def __main__():
     run = Pause_cafe()

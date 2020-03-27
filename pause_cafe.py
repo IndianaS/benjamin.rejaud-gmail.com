@@ -12,6 +12,11 @@ class Pause_cafe:
             time.sleep(600)
             pyautogui.move(150, 150, 3, pyautogui.easeInElastic)
             pyautogui.move(-150, -150, 3, pyautogui.easeInElastic)
+
+
+
+
+
 """
 def action():
     run = Pause_cafe()

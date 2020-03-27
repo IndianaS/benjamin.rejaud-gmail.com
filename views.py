@@ -3,6 +3,7 @@ import tkinter
 from pause_cafe import Pause_cafe
 
 
+
 def action():
     run = Pause_cafe()
     run.deplace_souris()
